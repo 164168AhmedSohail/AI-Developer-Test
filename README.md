@@ -2,8 +2,10 @@ AI Enhanced E-commerce Product Catalog
 
 An intelligent e-commerce product catalog application featuring AI powered product recommendations, advanced search capabilities, and dynamic filtering.
 
-AI Feature Implemented
+I chose option C
 
+AI Feature Implemented
+here is overview loom link :https://www.loom.com/share/ad3f87c8d2c34839bc2bf767f1e662ed?sid=c87181bf-c568-4bed-8b71-1c658b62808e
 Recommendation System
 A sophisticated rule based AI recommendation engine that suggests products based on:
 • User preferences (categories, budget, rating preferences)
