@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Apple iPhone 14 Pro",
+    "price": 999,
+    "category": "electronics",
+    "description": "Latest iPhone with A16 Bionic chip, Pro camera system, and Dynamic Island. Features 6.1-inch Super Retina XDR display with ProMotion technology.",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Nike Air Max 270",
+    "price": 150,
+    "category": "men's clothing",
+    "description": "Comfortable running shoes with Air Max technology. Perfect for daily wear and light exercise activities.",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "Sony WH-1000XM4 Headphones",
+    "price": 349,
+    "category": "electronics",
+    "description": "Industry-leading noise canceling wireless headphones with 30-hour battery life and premium sound quality.",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "Levi's 501 Original Jeans",
+    "price": 89,
+    "category": "men's clothing",
+    "description": "Classic straight-leg jeans made with premium denim. Timeless style that never goes out of fashion.",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 5,
+    "title": "Diamond Tennis Bracelet",
+    "price": 1299,
+    "category": "jewelery",
+    "description": "Elegant 18k white gold tennis bracelet with brilliant-cut diamonds. Perfect for special occasions.",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": "Summer Floral Dress",
+    "price": 79,
+    "category": "women's clothing",
+    "description": "Lightweight and breathable summer dress with beautiful floral print. Perfect for casual outings and dates.",
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 7,
+    "title": "MacBook Air M2",
+    "price": 1199,
+    "category": "electronics",
+    "description": "Lightweight laptop with M2 chip, 13.6-inch Liquid Retina display, and up to 18 hours of battery life.",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 8,
+    "title": "Gold Hoop Earrings",
+    "price": 199,
+    "category": "jewelery",
+    "description": "Classic 14k gold hoop earrings that complement any outfit. Hypoallergenic and durable construction.",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 9,
+    "title": "Women's Yoga Leggings",
+    "price": 45,
+    "category": "women's clothing",
+    "description": "High-waisted yoga leggings with moisture-wicking fabric. Perfect for workouts and everyday comfort.",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1506629905607-c60abcd7c960?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 10,
+    "title": "Vintage Leather Jacket",
+    "price": 289,
+    "category": "men's clothing",
+    "description": "Premium genuine leather jacket with classic design. Perfect for adding edge to any casual outfit.",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 11,
+    "title": "Smart Watch Series 8",
+    "price": 399,
+    "category": "electronics",
+    "description": "Advanced fitness tracking, heart rate monitoring, and smartphone connectivity in a sleek design.",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 12,
+    "title": "Pearl Necklace Set",
+    "price": 549,
+    "category": "jewelery",
+    "description": "Elegant freshwater pearl necklace and earring set. Timeless jewelry perfect for formal occasions.",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&h=400&fit=crop"
+  }
+]
